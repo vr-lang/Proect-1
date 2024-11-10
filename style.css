@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 12px;
+}
+h1{
+    margin-bottom: 22px;
+}
+
+
+
+.outer{
+    
+    /* width: 1310px;
+    height: 667; */
+    padding: 12px;
+    border: 1px solid black;
+}
+.outer p{
+    margin-bottom: 22px;
+
+}
+
+img{
+    height: auto;
+    width: 300px;
+}
+
+.image h1{
+    margin-top: 12px;
+    margin-bottom: 12px;
+    text-decoration: underline;
+}
+
+.image img{
+    margin-bottom: 12px;
+    
+}
+.link{
+    margin-bottom: 12px;
+}
+.list_container {
+    padding: 0px 18px;
+}
+  
